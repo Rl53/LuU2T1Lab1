@@ -2,7 +2,7 @@ public class CatRunner {
     public static void main(String[] args) {
 
         // creating one instance/object from the Rectangle class "blueprint"
-        Cat cat1 = new Cat("Sparky", 5, 6.3);
+        Cat cat1 = new Cat("Sparky", 7, 6.3);
         cat1.introduce();  // calling a method on the object
         cat1.printCatInfo();
 
